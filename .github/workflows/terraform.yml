@@ -2,7 +2,7 @@ name: Terraform EC2
 on:
   push:
     branches:
-      - main
+      - master
 
 
 jobs:
